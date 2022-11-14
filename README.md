@@ -1,6 +1,7 @@
 # TOOLS
 
-Tools, es una herramienta escrita en python3 para poder instalar 
+Tools :
+es una herramienta escrita en python3 para poder instalar 
 Los frameworks listados a continuación 
 Porteados y probados por mi, 
 
